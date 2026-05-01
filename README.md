@@ -58,6 +58,17 @@ Frontend Dashboard / Chat / Email
 ```
 
 ---
+---
+
+## 📸 Screenshots
+
+### Page
+![Page](./screenshots/page.png)
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+---
 
 ## 📂 Project Structure
 
@@ -139,13 +150,4 @@ Designed as a scalable SaaS product for:
 
 This project demonstrates the ability to design, build, and deploy a full-scale AI-powered SaaS system using modern technologies and scalable architecture.
 
----
-
-
-
-```md
-## 📸 Screenshots
-![page](./screenshots/page.png)
-![Dashboard](./screenshots/dashboard.png)
-```
 
